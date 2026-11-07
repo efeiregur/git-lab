@@ -6,3 +6,7 @@
 4. Open a pull request referencing the related issue.
 
 Please run `git status` and `git diff --staged` before committing.
+
+## Code Style
+
+Use clear names, keep functions short, and follow the existing style of the project.
