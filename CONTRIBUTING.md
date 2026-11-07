@@ -1,4 +1,4 @@
-# Contributing Guide (branch version)
+# Contributing Guidelines
 
 1. Fork the repository.
 2. Create a feature branch: `git switch -c feature/my-change`
